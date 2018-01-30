@@ -1,0 +1,1 @@
+C:\Users\atari\Desktop\KinectSkeletonTracking-master\KinectSkeletonTracking\bin\Debug\KinectSkeletonTracking.exe.config
